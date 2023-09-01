@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-dau-herlock-sholmes_20685.html",
+    "title" : "Đối Đầu Herlock Sholmès",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Maurice Leblanc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 23918,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_d921917bc04c2b4249ae7e284eb7ce33.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_d921917bc04c2b4249ae7e284eb7ce33.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_334409447e4535773a7487e7d7a5b9f5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_19a4b7a3ef4b80d04d4e69473a73dfa6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_fb469d8a11bc0f7b8a678f5179bd24e4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2130,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_33d1f9bc4699ffc00e09b04fd908a237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2147,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_ef4e2bbe3625038c5c4d7092f02adeb9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_e6a3b85875a4c33c3d279592cbe7d353.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2140,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "8 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "8 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_1af54c2bce22d37c7a6f88f18f1447a7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2056,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_334409447e4535773a7487e7d7a5b9f5.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_19a4b7a3ef4b80d04d4e69473a73dfa6.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_1.mp3",
+    "title" : "11 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_2.mp3",
+    "title" : "11 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_fb469d8a11bc0f7b8a678f5179bd24e4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_33d1f9bc4699ffc00e09b04fd908a237.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_ef4e2bbe3625038c5c4d7092f02adeb9.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_e6a3b85875a4c33c3d279592cbe7d353.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_1.mp3",
+    "title" : "8 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_2.mp3",
+    "title" : "8 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_1af54c2bce22d37c7a6f88f18f1447a7.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
