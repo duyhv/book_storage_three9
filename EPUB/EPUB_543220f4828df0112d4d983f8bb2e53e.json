@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-sy-trinh-sat_20728.html",
+    "title" : "Chiến Sỹ Trinh Sát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Từ Văn Chiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 28833,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_543220f4828df0112d4d983f8bb2e53e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_543220f4828df0112d4d983f8bb2e53e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-3 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chien-sy-4 (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_1.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_2.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_3.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_6502579204b94716a0f8be074134310a_4.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 01 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_1.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_2.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_3.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_806ebf3db2aa9c86d9abf16215698cc2_4.mp3",
+    "title" : "(Trọn Bộ) CHIẾN SỸ TRINH SÁT Phần 02 | Hồi Ký Từ Văn Chiến | Hồi Ký Kháng Chiến Chống Mỹ (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_1.mp3",
+    "title" : "chien-sy-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_2.mp3",
+    "title" : "chien-sy-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_3.mp3",
+    "title" : "chien-sy-3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_ead18c0150c5f208f4806d43e527748f_4.mp3",
+    "title" : "chien-sy-3 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_1.mp3",
+    "title" : "chien-sy-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_2.mp3",
+    "title" : "chien-sy-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_543220f4828df0112d4d983f8bb2e53e_fc9c6ad399ba9e8373ddc13415bbc579_3.mp3",
+    "title" : "chien-sy-4 (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
