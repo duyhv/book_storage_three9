@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muon-kiep-nhan-sinh-3_20988.html",
+    "title" : "Muôn Kiếp Nhân Sinh 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-07",
+    "duration" : 3812,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_eacf729bc648ed1fba93ffaa51f633be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_eacf729bc648ed1fba93ffaa51f633be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
+    "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
