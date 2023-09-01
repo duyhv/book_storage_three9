@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_03c7bd43b2be8a3c48a37a41b07c5185.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_03c7bd43b2be8a3c48a37a41b07c5185.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_03c7bd43b2be8a3c48a37a41b07c5185.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_03c7bd43b2be8a3c48a37a41b07c5185.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
     "title" : "DI-BALO (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
     "title" : "DI-BALO (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
     "title" : "DI-BALO (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
     "title" : "DI-BALO (4)",
     "children" : [ ]
   } ],

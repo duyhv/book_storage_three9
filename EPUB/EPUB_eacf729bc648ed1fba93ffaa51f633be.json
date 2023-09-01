@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_eacf729bc648ed1fba93ffaa51f633be.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_eacf729bc648ed1fba93ffaa51f633be.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_eacf729bc648ed1fba93ffaa51f633be.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_eacf729bc648ed1fba93ffaa51f633be.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_1.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_2.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_3.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_4.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_eacf729bc648ed1fba93ffaa51f633be_b2f5192647846874116d9b8def023e3d_5.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps (5)",
     "children" : [ ]
   } ],
