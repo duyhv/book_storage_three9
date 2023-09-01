@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=ACj7HvGFVF4",
+    "title" : "Hành Tinh Của Một Kẻ Nghĩ Nhiều",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đoàn Minh Thư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <div>                                 <div>                                     <p>&ldquo;Đ&oacute; l&agrave; m&ugrave;a h&egrave; năm 2020, m&ugrave;a h&egrave; của COVID-19 v&agrave; một ng&agrave;n vạn khủng hoảng tuổi đ&ocirc;i mươi. Đ&oacute; l&agrave; m&ugrave;a h&egrave; m&igrave;nh bắt chuyến bay sớm nhất c&oacute; thể v&agrave;o ng&agrave;y 20 th&aacute;ng 3 để chạy khỏi nước Anh đang b&ugrave;ng dịch, bị kẹt lại s&acirc;n bay Bangkok trong 24 giờ đồng hồ v&igrave; chuyến bay qu&aacute; cảnh về S&agrave;i G&ograve;n bị huỷ<br>Đ&oacute; l&agrave; mỗi đ&ecirc;m m&ugrave;a h&egrave; nằm tr&ecirc;n giường stress chuyện deadline luận văn, stress chuyện thất nghiệp kh&ocirc;ng kiếm ra tiền, stress chuyện bỏ lỡ cơ hội thực tập gi&uacute;p &iacute;ch cho sự nghiệp của m&igrave;nh, stress chuyện học h&agrave;nh dở dang - kh&ocirc;ng biết bao giờ mới c&oacute; thể quay lại Anh v&agrave; ho&agrave;n th&agrave;nh tấm bằng đại học, stress chuyện tồn tại một c&aacute;ch mơ hồ, kh&ocirc;ng biết m&igrave;nh l&agrave; ai.&rdquo;</p>                                     <p>H&agrave;nh tinh của một kẻ nghĩ nhiều l&agrave; h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; thế giới nội t&acirc;m của một người trẻ. Đ&oacute; l&agrave; một h&agrave;nh tinh đầy hỗn loạn của những suy nghĩ trăn trở, những dằn vặt, những cuộc chiến nội t&acirc;m, những cảm x&uacute;c vừa phức tạp cũng vừa rất đỗi con người. Một thế giới quen thuộc với tất cả ch&uacute;ng ta.</p>                                     <p>Chứa đựng những lời chia sẻ v&agrave; kiến thức từ podcast của Amateur Psychology - Tay mơ học đời bằng T&acirc;m l&yacute; học, t&aacute;c giả sẽ dẫn lối v&agrave; đưa bạn tới từng ng&oacute;c ng&aacute;ch thầm k&iacute;n nhất của h&agrave;nh tinh ấy dưới một g&oacute;c nh&igrave;n chuy&ecirc;n s&acirc;u hơn.</p>                                     <p>V&agrave; nếu bạn cũng l&agrave; một kẻ nghĩ nhiều, ch&agrave;o mừng bạn đến với h&agrave;nh tinh n&agrave;y.</p>                                     <p>&ldquo;Sự c&ocirc; đơn kh&ocirc;ng nằm ở việc kh&ocirc;ng c&oacute; bạn b&egrave; hay người th&acirc;n m&agrave; ngay cả trong sự sum vầy ta vẫn cảm thấy kh&ocirc;ng c&oacute; ai c&oacute; thể hiểu m&igrave;nh tường tận từ s&acirc;u t&acirc;m hồn. L&agrave; sự c&ocirc; đơn như thể chỉ c&oacute; một m&igrave;nh m&igrave;nh tr&ecirc;n một h&agrave;nh tinh đơn độc trong đầu, một h&agrave;nh tinh kh&ocirc;ng bao giờ c&oacute; kh&aacute;ch viếng thăm&rdquo;.</p>                                 </div>                             </div>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-30",
+    "duration" : 10929,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_82d58da275988b916f5c0121725c7c24.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_82d58da275988b916f5c0121725c7c24.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_1.mp3",
+    "title" : "P1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_2.mp3",
+    "title" : "P1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_1.mp3",
+    "title" : "P2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_2.mp3",
+    "title" : "P2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_1.mp3",
+    "title" : "P3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_2.mp3",
+    "title" : "P3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-mang-tren-san-golf_15676.html",
+    "title" : "Án Mạng Trên Sân Golf",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 24544,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_829415fa343aec62757b94ab14aec545.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_829415fa343aec62757b94ab14aec545.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2017%20Ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91i%E1%BB%81u%20tra..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 17 Tiếp tục điều tra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2022%20T%C3%B4i%20t%C3%ACm%20th%E1%BA%A5y%20t%C3%ACnh%20y%C3%AAu..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1028,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 22 Tôi tìm thấy tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2023%20Kh%C3%B3%20kh%C4%83n%20c%C3%B2n%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 562,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 23 Khó khăn còn ở phía trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2025%20C%C3%A1i%20k%E1%BA%BFt%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 413,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 25 Cái kết bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2026%20T%C3%B4i%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 26 Tôi nhận được một lá thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2027%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20Jack%20Renauld..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1255,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 27 Câu chuyện của Jack Renauld",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2001%20Ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 585,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 1 Người bạn đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2002%20L%E1%BB%9Di%20c%E1%BA%A7u%20c%E1%BB%A9u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1143,
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 2: Lời cầu cứu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2003%20T%E1%BA%A1i%20bi%E1%BB%87t%20th%E1%BB%B1%20Genevi%C3%A8re.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 3 Tại biệt thự Genevière",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2004%20L%C3%A1%20th%C6%B0%20k%C3%BD%20t%C3%AAn%20Bella.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 4 Lá thư ký tên Bella",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2005%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20b%C3%A0%20Renauld.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1017,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 5 Câu chuyện của bà Renauld",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2006%20Hi%E1%BB%87n%20tr%C6%B0%E1%BB%9Dng%20v%E1%BB%A5%20%C3%A1n..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 736,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 6 Hiện trường vụ án",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2007%20Phu%20nh%C3%A2n%20Daubreuil%20b%C3%AD%20%E1%BA%A9n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 7 Phu nhân Daubreuil bí ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2008%20Cu%E1%BB%99c%20g%E1%BA%B7p%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 8 Cuộc gặp bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2009%20Giraud%20l%E1%BA%A7n%20ra%20v%C3%A0i%20manh%20m%E1%BB%91i..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 9 Giraud lần ra vài manh mối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2010%20Gabriel%20Stonor..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 801,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 10 Gabriel Stonor",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2011%20Jack%20Renauld..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1200,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 11 Jack Renauld",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2012%20Poirot%20l%C3%BD%20gi%E1%BA%A3i%20m%E1%BB%99t%20s%E1%BB%91%20v%E1%BA%A5n%20%C4%91%E1%BB%81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 12 Poirot lý giải một số vấn đề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2013%20C%C3%B4%20g%C3%A1i%20c%C3%B3%20%C4%91%C3%B4i%20m%E1%BA%AFt%20lo%20%C3%A2u..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 13 Cô gái có đôi mắt lo âu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2014%20X%C3%A1c%20ch%E1%BA%BFt%20th%E1%BB%A9%20hai..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 706,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 14 Xác chết thứ hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2015%20T%E1%BA%A5m%20%E1%BA%A3nh..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 15 Tấm ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2016%20V%E1%BB%A5%20%C3%A1n%20Beroldy..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 650,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 16 Vụ án Beroldy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2018%20Giraud%20h%C3%A0nh%20%C4%91%E1%BB%99ng..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 18 Giraud hành động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2019%20T%C3%B4i%20v%E1%BA%ADn%20d%E1%BB%A5ng%20ch%E1%BA%A5t%20x%C3%A1m..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 605,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 19 Tôi vận dụng chất xám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2020%20M%E1%BB%99t%20l%E1%BB%9Di%20khai%20%C4%91%C3%A1ng%20kinh%20ng%E1%BA%A1c..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 20 Một lời khai đáng kinh ngạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2021%20Hercule%20Poirot%20v%C3%A0o%20cu%E1%BB%99c..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 875,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 21 Hercule Poirot vào cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2024%20H%C3%A3y%20c%E1%BB%A9u%20l%E1%BA%A5y%20anh%20%E1%BA%A5y..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 24 Hãy cứu lấy anh ấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2028%20%C4%90o%E1%BA%A1n%20k%E1%BA%BFt%20c%E1%BB%A7a%20cu%E1%BB%99c%20h%C3%A0nh%20tr%C3%ACnh..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1258,
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 28 Đoạn kết của cuộc hành trình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2017%20Ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91i%E1%BB%81u%20tra..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 17 Tiếp tục điều tra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2022%20T%C3%B4i%20t%C3%ACm%20th%E1%BA%A5y%20t%C3%ACnh%20y%C3%AAu..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 22 Tôi tìm thấy tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2023%20Kh%C3%B3%20kh%C4%83n%20c%C3%B2n%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 23 Khó khăn còn ở phía trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2025%20C%C3%A1i%20k%E1%BA%BFt%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 25 Cái kết bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2026%20T%C3%B4i%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 26 Tôi nhận được một lá thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2027%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20Jack%20Renauld..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chuong 27 Câu chuyện của Jack Renauld",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2001%20Ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 1 Người bạn đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2002%20L%E1%BB%9Di%20c%E1%BA%A7u%20c%E1%BB%A9u.mp3",
+    "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 2: Lời cầu cứu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2003%20T%E1%BA%A1i%20bi%E1%BB%87t%20th%E1%BB%B1%20Genevi%C3%A8re.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 3 Tại biệt thự Genevière",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2004%20L%C3%A1%20th%C6%B0%20k%C3%BD%20t%C3%AAn%20Bella.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 4 Lá thư ký tên Bella",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2005%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20b%C3%A0%20Renauld.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 5 Câu chuyện của bà Renauld",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2006%20Hi%E1%BB%87n%20tr%C6%B0%E1%BB%9Dng%20v%E1%BB%A5%20%C3%A1n..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 6 Hiện trường vụ án",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2007%20Phu%20nh%C3%A2n%20Daubreuil%20b%C3%AD%20%E1%BA%A9n.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 7 Phu nhân Daubreuil bí ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2008%20Cu%E1%BB%99c%20g%E1%BA%B7p%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 8 Cuộc gặp bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2009%20Giraud%20l%E1%BA%A7n%20ra%20v%C3%A0i%20manh%20m%E1%BB%91i..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 9 Giraud lần ra vài manh mối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2010%20Gabriel%20Stonor..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 10 Gabriel Stonor",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2011%20Jack%20Renauld..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 11 Jack Renauld",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2012%20Poirot%20l%C3%BD%20gi%E1%BA%A3i%20m%E1%BB%99t%20s%E1%BB%91%20v%E1%BA%A5n%20%C4%91%E1%BB%81.mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 12 Poirot lý giải một số vấn đề",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2013%20C%C3%B4%20g%C3%A1i%20c%C3%B3%20%C4%91%C3%B4i%20m%E1%BA%AFt%20lo%20%C3%A2u..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 13 Cô gái có đôi mắt lo âu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2014%20X%C3%A1c%20ch%E1%BA%BFt%20th%E1%BB%A9%20hai..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 14 Xác chết thứ hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2015%20T%E1%BA%A5m%20%E1%BA%A3nh..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 15 Tấm ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2016%20V%E1%BB%A5%20%C3%A1n%20Beroldy..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 16 Vụ án Beroldy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2018%20Giraud%20h%C3%A0nh%20%C4%91%E1%BB%99ng..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 18 Giraud hành động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2019%20T%C3%B4i%20v%E1%BA%ADn%20d%E1%BB%A5ng%20ch%E1%BA%A5t%20x%C3%A1m..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 19 Tôi vận dụng chất xám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2020%20M%E1%BB%99t%20l%E1%BB%9Di%20khai%20%C4%91%C3%A1ng%20kinh%20ng%E1%BA%A1c..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 20 Một lời khai đáng kinh ngạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2021%20Hercule%20Poirot%20v%C3%A0o%20cu%E1%BB%99c..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 21 Hercule Poirot vào cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2024%20H%C3%A3y%20c%E1%BB%A9u%20l%E1%BA%A5y%20anh%20%E1%BA%A5y..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 24 Hãy cứu lấy anh ấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2028%20%C4%90o%E1%BA%A1n%20k%E1%BA%BFt%20c%E1%BB%A7a%20cu%E1%BB%99c%20h%C3%A0nh%20tr%C3%ACnh..mp3",
+    "title" : "Agatha Christie Án mạng trên sân Golf Chương 28 Đoạn kết của cuộc hành trình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
