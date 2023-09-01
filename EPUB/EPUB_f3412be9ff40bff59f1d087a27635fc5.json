@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-ke-dang-ngo_18629.html",
+    "title" : "Những Kẻ Đáng Ngờ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 20680,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_f3412be9ff40bff59f1d087a27635fc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_f3412be9ff40bff59f1d087a27635fc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_77a1d151a293808d43160f32078dedd0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2643,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b5088c59c9e0a5be86e90fb03c567dff.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_5c79b74a58e83ee6d62647c423a67f32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1218,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_211342a661ee6fc7f9ecef50e2355273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1133,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b49b5839bc6f86336aa3cca25b6f462e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_abf91f47c24572a78a2f9bb921417e04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8dbe760fcfa25d3eeabd3340cb9be992.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1642,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8e7797ebad3986561df385b1c691bb6c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_072e8ad9c97ef6f5b44591f144cc185d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1921,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e20c7454ff2556df470b41f579b93e7e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e748e78f0ca1e31a009e6bc21d2d32f3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 08 (lời bạt)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_77a1d151a293808d43160f32078dedd0.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_1.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_2.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b5088c59c9e0a5be86e90fb03c567dff.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_5c79b74a58e83ee6d62647c423a67f32.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_211342a661ee6fc7f9ecef50e2355273.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b49b5839bc6f86336aa3cca25b6f462e.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_abf91f47c24572a78a2f9bb921417e04.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8dbe760fcfa25d3eeabd3340cb9be992.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8e7797ebad3986561df385b1c691bb6c.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_072e8ad9c97ef6f5b44591f144cc185d.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e20c7454ff2556df470b41f579b93e7e.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e748e78f0ca1e31a009e6bc21d2d32f3.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 08 (lời bạt)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
