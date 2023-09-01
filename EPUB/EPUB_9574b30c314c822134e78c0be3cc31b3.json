@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tai-sanh_19739.html",
+    "title" : "Tái Sanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Narada Maha Thera",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-24",
+    "duration" : 9538,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_9574b30c314c822134e78c0be3cc31b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_9574b30c314c822134e78c0be3cc31b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_2d6fa520f998c4d011bcd853ea680f77_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_2d6fa520f998c4d011bcd853ea680f77_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_d738612555f26008f18040752c44ea22_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_d738612555f26008f18040752c44ea22_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_aa6e446bc9b12c8e891c8de19eba0cb1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_aa6e446bc9b12c8e891c8de19eba0cb1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tai-sanh-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_2d6fa520f998c4d011bcd853ea680f77_1.mp3",
+    "title" : "tai-sanh-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_2d6fa520f998c4d011bcd853ea680f77_2.mp3",
+    "title" : "tai-sanh-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_d738612555f26008f18040752c44ea22_1.mp3",
+    "title" : "tai-sanh-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_d738612555f26008f18040752c44ea22_2.mp3",
+    "title" : "tai-sanh-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_aa6e446bc9b12c8e891c8de19eba0cb1_1.mp3",
+    "title" : "tai-sanh-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_9574b30c314c822134e78c0be3cc31b3_aa6e446bc9b12c8e891c8de19eba0cb1_2.mp3",
+    "title" : "tai-sanh-3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-tinh-yeu-phu-phiem_20136.html",
+    "title" : "Vì Tình Yêu Phù Phiếm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Thuần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 10773,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_948e618afbf6813ff41be955c78b20fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_948e618afbf6813ff41be955c78b20fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_bf07340c4ea65d8644e21992986c7a1b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "vi-tinh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_b97c845db80cee13dec91b28dbb41d6e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "vi-tinh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_a796542769274c7d94c91c4fed380f21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1949,
+    "title" : "vi-tinh-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_651be9387e495283c7c9f27443b46471.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1739,
+    "title" : "vi-tinh-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_d8b566395a767ce39ecbab7b042d12aa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "vi-tinh-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_bd69362ff14d59d212f80cafe4d8d8fe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "vi-tinh-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_bf07340c4ea65d8644e21992986c7a1b.mp3",
+    "title" : "vi-tinh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_b97c845db80cee13dec91b28dbb41d6e.mp3",
+    "title" : "vi-tinh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_a796542769274c7d94c91c4fed380f21.mp3",
+    "title" : "vi-tinh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_651be9387e495283c7c9f27443b46471.mp3",
+    "title" : "vi-tinh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_d8b566395a767ce39ecbab7b042d12aa.mp3",
+    "title" : "vi-tinh-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_948e618afbf6813ff41be955c78b20fa_bd69362ff14d59d212f80cafe4d8d8fe.mp3",
+    "title" : "vi-tinh-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
