@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/di-balo-xuyen-dong-duong_20884.html",
+    "title" : "Đi Balô Xuyên Đông Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tố Oanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 7208,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_03c7bd43b2be8a3c48a37a41b07c5185.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_03c7bd43b2be8a3c48a37a41b07c5185.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "DI-BALO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "DI-BALO (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "DI-BALO (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "DI-BALO (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_1.mp3",
+    "title" : "DI-BALO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_2.mp3",
+    "title" : "DI-BALO (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_3.mp3",
+    "title" : "DI-BALO (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_03c7bd43b2be8a3c48a37a41b07c5185_ed06a75de2ecdab67b5e785ca4e7baed_4.mp3",
+    "title" : "DI-BALO (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
