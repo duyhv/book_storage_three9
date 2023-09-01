@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phat-hoc-pho-thong_12932.html",
+    "title" : "Phật Học Phổ Thông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thiện Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 186973,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_d1c90dd56880eae608b15d7c022697f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_d1c90dd56880eae608b15d7c022697f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_c544485ba8e40b127fa0a15999d7cb04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 32207,
+    "title" : "Phần 3 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_1.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_2.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_3.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_4.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_5.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1f9ae1333a38d8b9bfc2c4dc7587fe23_6.mp3",
+    "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_1.mp3",
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_2.mp3",
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_3.mp3",
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_4.mp3",
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_b7a4984060167754c0ac0d8f2270c8b9_5.mp3",
+    "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_c544485ba8e40b127fa0a15999d7cb04.mp3",
+    "title" : "Phần 3 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_1.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_2.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_3.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_4.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_5.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_f46884b8a3e0f3b848b6404ae2c69c68_6.mp3",
+    "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_1.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_2.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_3.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_4.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_5.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_1bf2ae001341271f74ca61afc13464cc_6.mp3",
+    "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_1.mp3",
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_2.mp3",
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_3.mp3",
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_4.mp3",
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/AUDIO/AUDIO_d1c90dd56880eae608b15d7c022697f1_3e8dc840e70b777a0877d34849a169ac_5.mp3",
+    "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
