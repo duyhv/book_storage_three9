@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 4173,
+    "published" : "2023-09-06",
+    "duration" : 8346,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_196fd0166325bf633ead28d350af919a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_196fd0166325bf633ead28d350af919a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_196fd0166325bf633ead28d350af919a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_196fd0166325bf633ead28d350af919a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_196fd0166325bf633ead28d350af919a_97a8eca1a68b2edc157eb7fbab4a4259.mp3",
+    "href" : "https://archive.org/download/giac-mo-1/giac-mo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2364,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_196fd0166325bf633ead28d350af919a_cfe4a9a1f3c5e9b74ee7a805d5867604.mp3",
+    "href" : "https://archive.org/download/giac-mo-1/giac-mo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1809,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_196fd0166325bf633ead28d350af919a_97a8eca1a68b2edc157eb7fbab4a4259.mp3",
+    "href" : "https://archive.org/download/giac-mo-1/giac-mo-1.mp3",
     "title" : "giac-mo-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_196fd0166325bf633ead28d350af919a_cfe4a9a1f3c5e9b74ee7a805d5867604.mp3",
+    "href" : "https://archive.org/download/giac-mo-1/giac-mo-2.mp3",
     "title" : "giac-mo-2",
     "children" : [ ]
   } ],
