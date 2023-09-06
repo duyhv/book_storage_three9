@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-30",
+    "published" : "2023-09-06",
     "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_82d58da275988b916f5c0121725c7c24.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_82d58da275988b916f5c0121725c7c24.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_82d58da275988b916f5c0121725c7c24.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_82d58da275988b916f5c0121725c7c24.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_1.mp3",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (1)",
+    "duration" : 3643,
+    "title" : "P1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_2.mp3",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (2)",
+    "duration" : 3643,
+    "title" : "P2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_1.mp3",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P3 (2)",
+    "duration" : 3643,
+    "title" : "P3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_1.mp3",
-    "title" : "P1 (1)",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p1.mp3",
+    "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_dcabe97c1e1e761ac86a5a0f4c8a6bab_2.mp3",
-    "title" : "P1 (2)",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p2.mp3",
+    "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_1.mp3",
-    "title" : "P2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_9d139fdd8af464e2f5e3e2f86408e185_2.mp3",
-    "title" : "P2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_1.mp3",
-    "title" : "P3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_82d58da275988b916f5c0121725c7c24_35eeeb3b1653204e567bdd4fd725fb23_2.mp3",
-    "title" : "P3 (2)",
+    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p3.mp3",
+    "title" : "P3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

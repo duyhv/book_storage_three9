@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 3540,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_b571b4ba1095717796191224e6426d7a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_b571b4ba1095717796191224e6426d7a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_b571b4ba1095717796191224e6426d7a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_b571b4ba1095717796191224e6426d7a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_b571b4ba1095717796191224e6426d7a_0e86f38df1bdc40317b70613a3a837d6_1.mp3",
+    "href" : "https://archive.org/download/thay-lazaro-phien/thay-lazaro-phien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-lazaro-phien (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_b571b4ba1095717796191224e6426d7a_0e86f38df1bdc40317b70613a3a837d6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thay-lazaro-phien (2)",
+    "duration" : 3540,
+    "title" : "thay-lazaro-phien",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_b571b4ba1095717796191224e6426d7a_0e86f38df1bdc40317b70613a3a837d6_1.mp3",
-    "title" : "thay-lazaro-phien (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_b571b4ba1095717796191224e6426d7a_0e86f38df1bdc40317b70613a3a837d6_2.mp3",
-    "title" : "thay-lazaro-phien (2)",
+    "href" : "https://archive.org/download/thay-lazaro-phien/thay-lazaro-phien.mp3",
+    "title" : "thay-lazaro-phien",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

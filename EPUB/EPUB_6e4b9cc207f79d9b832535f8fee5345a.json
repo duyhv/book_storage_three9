@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
-    "duration" : 7453,
+    "published" : "2023-09-06",
+    "duration" : 11946,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_6e4b9cc207f79d9b832535f8fee5345a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_6e4b9cc207f79d9b832535f8fee5345a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_6e4b9cc207f79d9b832535f8fee5345a.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_6e4b9cc207f79d9b832535f8fee5345a.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_41ac8c9c9374a3257cb6db706707af1d_1.mp3",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LAO VAO LUA 01 (1)",
+    "duration" : 2960,
+    "title" : "LAO VAO LUA 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_41ac8c9c9374a3257cb6db706707af1d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LAO VAO LUA 01 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_59e5a0e70dec9fad9a196fff1d0e0c47.mp3",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2155,
@@ -60,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_dedb03a619be28d8717f876054d736e0.mp3",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2338,
@@ -69,19 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_41ac8c9c9374a3257cb6db706707af1d_1.mp3",
-    "title" : "LAO VAO LUA 01 (1)",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
+    "title" : "LAO VAO LUA 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_41ac8c9c9374a3257cb6db706707af1d_2.mp3",
-    "title" : "LAO VAO LUA 01 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_59e5a0e70dec9fad9a196fff1d0e0c47.mp3",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
     "title" : "LAO VAO LUA 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_6e4b9cc207f79d9b832535f8fee5345a_dedb03a619be28d8717f876054d736e0.mp3",
+    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
     "title" : "LAO VAO LUA 03",
     "children" : [ ]
   } ],

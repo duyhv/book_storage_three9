@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 8883,
+    "published" : "2023-09-06",
+    "duration" : 17766,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_7cb7959a1541d0797b11046cc230d697.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_7cb7959a1541d0797b11046cc230d697.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_7cb7959a1541d0797b11046cc230d697.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_7cb7959a1541d0797b11046cc230d697.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_7cb7959a1541d0797b11046cc230d697_c05bae14f792f1afa543a4ed37ee37ed.mp3",
+    "href" : "https://archive.org/download/nguoi-ban-hang-vi-dai-nhat-the-gioi.sna/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8883,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_7cb7959a1541d0797b11046cc230d697_c05bae14f792f1afa543a4ed37ee37ed.mp3",
+    "href" : "https://archive.org/download/nguoi-ban-hang-vi-dai-nhat-the-gioi.sna/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
     "title" : "doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang",
     "children" : [ ]
   } ],

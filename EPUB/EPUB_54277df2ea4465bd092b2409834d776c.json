@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 10332,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_54277df2ea4465bd092b2409834d776c.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_54277df2ea4465bd092b2409834d776c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_54277df2ea4465bd092b2409834d776c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_54277df2ea4465bd092b2409834d776c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_c6659cb1c2281b0704119062c9f1d48a_1.mp3",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-1 (1)",
+    "duration" : 3600,
+    "title" : "thiet-gia-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_c6659cb1c2281b0704119062c9f1d48a_2.mp3",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-1 (2)",
+    "duration" : 3600,
+    "title" : "thiet-gia-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_09afd206558e4c9468f078e5bfa962a4_1.mp3",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_09afd206558e4c9468f078e5bfa962a4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_fbe2c13a2977da4959deb65ad82ab245_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_fbe2c13a2977da4959deb65ad82ab245_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thiet-gia-3 (2)",
+    "duration" : 3132,
+    "title" : "thiet-gia-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_c6659cb1c2281b0704119062c9f1d48a_1.mp3",
-    "title" : "thiet-gia-1 (1)",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-1.mp3",
+    "title" : "thiet-gia-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_c6659cb1c2281b0704119062c9f1d48a_2.mp3",
-    "title" : "thiet-gia-1 (2)",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-2.mp3",
+    "title" : "thiet-gia-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_09afd206558e4c9468f078e5bfa962a4_1.mp3",
-    "title" : "thiet-gia-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_09afd206558e4c9468f078e5bfa962a4_2.mp3",
-    "title" : "thiet-gia-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_fbe2c13a2977da4959deb65ad82ab245_1.mp3",
-    "title" : "thiet-gia-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_54277df2ea4465bd092b2409834d776c_fbe2c13a2977da4959deb65ad82ab245_2.mp3",
-    "title" : "thiet-gia-3 (2)",
+    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-3.mp3",
+    "title" : "thiet-gia-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

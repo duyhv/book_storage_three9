@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 23918,
+    "published" : "2023-09-06",
+    "duration" : 38667,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_d921917bc04c2b4249ae7e284eb7ce33.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_d921917bc04c2b4249ae7e284eb7ce33.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_d921917bc04c2b4249ae7e284eb7ce33.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_d921917bc04c2b4249ae7e284eb7ce33.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_334409447e4535773a7487e7d7a5b9f5.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2118,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_19a4b7a3ef4b80d04d4e69473a73dfa6.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2156,
@@ -52,55 +52,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_1.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "11 (1)",
+    "duration" : 2386,
+    "title" : "11",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_2.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "11 (2)",
+    "duration" : 2249,
+    "title" : "2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_1.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (1)",
+    "duration" : 2222,
+    "title" : "3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_fb469d8a11bc0f7b8a678f5179bd24e4.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2130,
@@ -108,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_33d1f9bc4699ffc00e09b04fd908a237.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2147,
@@ -116,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_ef4e2bbe3625038c5c4d7092f02adeb9.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2002,
@@ -124,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_e6a3b85875a4c33c3d279592cbe7d353.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2140,
@@ -132,23 +108,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_1.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "8 (1)",
+    "duration" : 2312,
+    "title" : "8",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "8 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_1af54c2bce22d37c7a6f88f18f1447a7.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2056,
@@ -157,63 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_334409447e4535773a7487e7d7a5b9f5.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_19a4b7a3ef4b80d04d4e69473a73dfa6.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_1.mp3",
-    "title" : "11 (1)",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/11.mp3",
+    "title" : "11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_642d175c8f43377a8966da8859263123_2.mp3",
-    "title" : "11 (2)",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/2.mp3",
+    "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_1.mp3",
-    "title" : "2 (1)",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/3.mp3",
+    "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_861944b72e9bcf2db9d6b7069c4cd25d_2.mp3",
-    "title" : "2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_1.mp3",
-    "title" : "3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_a7e451cc134666a03672657feb624f97_2.mp3",
-    "title" : "3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_fb469d8a11bc0f7b8a678f5179bd24e4.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_33d1f9bc4699ffc00e09b04fd908a237.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/5.mp3",
     "title" : "5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_ef4e2bbe3625038c5c4d7092f02adeb9.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/6.mp3",
     "title" : "6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_e6a3b85875a4c33c3d279592cbe7d353.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/7.mp3",
     "title" : "7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_1.mp3",
-    "title" : "8 (1)",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/8.mp3",
+    "title" : "8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_766a8a6cec43b559100bd9e6763ed7ac_2.mp3",
-    "title" : "8 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_d921917bc04c2b4249ae7e284eb7ce33_1af54c2bce22d37c7a6f88f18f1447a7.mp3",
+    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/9.mp3",
     "title" : "9",
     "children" : [ ]
   } ],

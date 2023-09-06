@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 24070,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,183 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_c637c1fdc4e510a8dc80a2894b3eeeb5.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_c637c1fdc4e510a8dc80a2894b3eeeb5.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_c637c1fdc4e510a8dc80a2894b3eeeb5.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_c637c1fdc4e510a8dc80a2894b3eeeb5.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_036e046f8377e91e630e443b79df2302_1.mp3",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-1 (1)",
+    "duration" : 6120,
+    "title" : "tinh-khuc-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_036e046f8377e91e630e443b79df2302_2.mp3",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-1 (2)",
+    "duration" : 6120,
+    "title" : "tinh-khuc-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_1.mp3",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-2 (1)",
+    "duration" : 6120,
+    "title" : "tinh-khuc-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_2.mp3",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-3 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tinh-khuc-4 (4)",
+    "duration" : 5710,
+    "title" : "tinh-khuc-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_036e046f8377e91e630e443b79df2302_1.mp3",
-    "title" : "tinh-khuc-1 (1)",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-1.mp3",
+    "title" : "tinh-khuc-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_036e046f8377e91e630e443b79df2302_2.mp3",
-    "title" : "tinh-khuc-1 (2)",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-2.mp3",
+    "title" : "tinh-khuc-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_1.mp3",
-    "title" : "tinh-khuc-2 (1)",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-3.mp3",
+    "title" : "tinh-khuc-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_2.mp3",
-    "title" : "tinh-khuc-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_3.mp3",
-    "title" : "tinh-khuc-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_1d9659a065115185a262e77bb1cc0191_4.mp3",
-    "title" : "tinh-khuc-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_1.mp3",
-    "title" : "tinh-khuc-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_2.mp3",
-    "title" : "tinh-khuc-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_3.mp3",
-    "title" : "tinh-khuc-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_a2f2eaadaa687295068551689d1f5381_4.mp3",
-    "title" : "tinh-khuc-3 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_1.mp3",
-    "title" : "tinh-khuc-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_2.mp3",
-    "title" : "tinh-khuc-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_3.mp3",
-    "title" : "tinh-khuc-4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c637c1fdc4e510a8dc80a2894b3eeeb5_8651113790a4860ab4445019a3b01ffa_4.mp3",
-    "title" : "tinh-khuc-4 (4)",
+    "href" : "https://archive.org/download/tinh-khuc-1/tinh-khuc-4.mp3",
+    "title" : "tinh-khuc-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

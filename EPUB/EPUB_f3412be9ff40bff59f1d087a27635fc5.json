@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 20680,
+    "published" : "2023-09-06",
+    "duration" : 38474,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_f3412be9ff40bff59f1d087a27635fc5.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_f3412be9ff40bff59f1d087a27635fc5.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_f3412be9ff40bff59f1d087a27635fc5.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_f3412be9ff40bff59f1d087a27635fc5.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_77a1d151a293808d43160f32078dedd0.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_1.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (1)",
+    "duration" : 2886,
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b5088c59c9e0a5be86e90fb03c567dff.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2556,
@@ -68,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_5c79b74a58e83ee6d62647c423a67f32.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1218,
@@ -76,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_211342a661ee6fc7f9ecef50e2355273.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1133,
@@ -84,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b49b5839bc6f86336aa3cca25b6f462e.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1352,
@@ -92,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_abf91f47c24572a78a2f9bb921417e04.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1499,
@@ -100,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8dbe760fcfa25d3eeabd3340cb9be992.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1642,
@@ -108,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8e7797ebad3986561df385b1c691bb6c.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1761,
@@ -116,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_072e8ad9c97ef6f5b44591f144cc185d.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1921,
@@ -124,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e20c7454ff2556df470b41f579b93e7e.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1374,
@@ -132,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e748e78f0ca1e31a009e6bc21d2d32f3.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_08%20%28l%E1%BB%9Di%20b%E1%BA%A1t%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 695,
@@ -141,55 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_77a1d151a293808d43160f32078dedd0.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_1.mp3",
-    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (1)",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_02.mp3",
+    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b42b0103978f7a71304ddae93f871fc1_2.mp3",
-    "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b5088c59c9e0a5be86e90fb03c567dff.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_03.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_5c79b74a58e83ee6d62647c423a67f32.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_211342a661ee6fc7f9ecef50e2355273.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_b49b5839bc6f86336aa3cca25b6f462e.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_abf91f47c24572a78a2f9bb921417e04.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8dbe760fcfa25d3eeabd3340cb9be992.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_8e7797ebad3986561df385b1c691bb6c.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_072e8ad9c97ef6f5b44591f144cc185d.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e20c7454ff2556df470b41f579b93e7e.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_f3412be9ff40bff59f1d087a27635fc5_e748e78f0ca1e31a009e6bc21d2d32f3.mp3",
+    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_08%20%28l%E1%BB%9Di%20b%E1%BA%A1t%29.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 08 (lời bạt)",
     "children" : [ ]
   } ],

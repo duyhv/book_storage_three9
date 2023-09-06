@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 7505,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/EPUB/EPUB_c4dbbe585a7d260993f1a18cfbccbe66.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_c4dbbe585a7d260993f1a18cfbccbe66.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three9/main/IMAGE/IMAGE_c4dbbe585a7d260993f1a18cfbccbe66.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_c4dbbe585a7d260993f1a18cfbccbe66.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_1.mp3",
+    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Bí Mật Của May Mắn (6)",
+    "duration" : 7505,
+    "title" : "Bí Mật Của May Mắn",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_1.mp3",
-    "title" : "Bí Mật Của May Mắn (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_2.mp3",
-    "title" : "Bí Mật Của May Mắn (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_3.mp3",
-    "title" : "Bí Mật Của May Mắn (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_4.mp3",
-    "title" : "Bí Mật Của May Mắn (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_5.mp3",
-    "title" : "Bí Mật Của May Mắn (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_c4dbbe585a7d260993f1a18cfbccbe66_9d6edff2a307603f90550821d6a13fc9_6.mp3",
-    "title" : "Bí Mật Của May Mắn (6)",
+    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
+    "title" : "Bí Mật Của May Mắn",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
