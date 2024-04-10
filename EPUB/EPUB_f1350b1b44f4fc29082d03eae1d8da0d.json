@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 54814,
+    "published" : "2024-04-09",
+    "duration" : 43441,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-1.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-1-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7940,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-2.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-2-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10392,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-3.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-3-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6495,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-4.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-4-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7241,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-5.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-5-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11373,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-1.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-1-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "title" : "PHẦN 1/5 | Tác giả: LÊ XUYÊN | Giọng đọc: THU YÊN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-2.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-2-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "title" : "PHẦN 2/5 | Tác giả: LÊ XUYÊN | Giọng đọc: THU YÊN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-3.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-3-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "title" : "PHẦN 3/5 | Tác giả: LÊ XUYÊN | Giọng đọc: THU YÊN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-4.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-4-5-tac-gia-le-xuyen-giong-doc-thu-yen.mp3",
     "title" : "PHẦN 4/5 | Tác giả: LÊ XUYÊN | Giọng đọc: THU YÊN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rang-tram-5/rang-tram-5.mp3",
+    "href" : "https://archive.org/download/f1350b1b44f4fc29082d03eae1d8da0d/phan-5-5.mp3",
     "title" : "PHẦN 5/5",
     "children" : [ ]
   } ],

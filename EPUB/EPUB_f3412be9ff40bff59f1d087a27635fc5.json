@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 38474,
+    "published" : "2024-04-08",
+    "duration" : 20680,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2886,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_03.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2556,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-04-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1218,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-04-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1133,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-05-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1352,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-05-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1499,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-06-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1642,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-06-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1761,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-07-p01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1921,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-07-p02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1374,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_08%20%28l%E1%BB%9Di%20b%E1%BA%A1t%29.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-08-loi-bat-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 695,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_03.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-03.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-04-p01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_04_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-04-p02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 04 P02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-05-p01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_05_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-05-p02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 05 P02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-06-p01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_06_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-06-p02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 06 P02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P01.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-07-p01.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_07_P02.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-07-p02.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 07 P02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-ke-dang-ngo-lachoncoc.com-01_202211/Nh%E1%BB%AFng%20k%E1%BA%BB%20%C4%91%C3%A1ng%20ng%E1%BB%9D%20%28lachoncoc.com%29_08%20%28l%E1%BB%9Di%20b%E1%BA%A1t%29.mp3",
+    "href" : "https://archive.org/download/f3412be9ff40bff59f1d087a27635fc5/nhung-ke-dang-ngo-lachoncoc-com-08-loi-bat-.mp3",
     "title" : "Những kẻ đáng ngờ (lachoncoc.com) 08 (lời bạt)",
     "children" : [ ]
   } ],
