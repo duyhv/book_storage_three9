@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 38667,
+    "published" : "2024-04-28",
+    "duration" : 23918,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/1.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2118,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/10.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2156,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/11.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2386,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/2.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2249,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/3.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2222,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/4.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2130,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/5.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2147,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/6.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2002,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/7.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2140,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/8.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2312,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/9.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2056,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/1.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/10.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/11.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/11.mp3",
     "title" : "11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/2.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/3.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/4.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/5.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/5.mp3",
     "title" : "5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/6.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/6.mp3",
     "title" : "6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/7.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/7.mp3",
     "title" : "7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/8.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/8.mp3",
     "title" : "8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_Lupin_doi_dau_Sherlock_Holmes/9.mp3",
+    "href" : "https://archive.org/download/d921917bc04c2b4249ae7e284eb7ce33/9.mp3",
     "title" : "9",
     "children" : [ ]
   } ],
