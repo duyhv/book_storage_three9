@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-30",
     "duration" : 3540,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thay-lazaro-phien/thay-lazaro-phien.mp3",
+    "href" : "https://archive.org/download/b571b4ba1095717796191224e6426d7a/thay-lazaro-phien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3540,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thay-lazaro-phien/thay-lazaro-phien.mp3",
+    "href" : "https://archive.org/download/b571b4ba1095717796191224e6426d7a/thay-lazaro-phien.mp3",
     "title" : "thay-lazaro-phien",
     "children" : [ ]
   } ],

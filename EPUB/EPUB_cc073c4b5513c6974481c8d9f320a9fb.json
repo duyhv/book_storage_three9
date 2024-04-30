@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-30",
     "duration" : 81033,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mmpt3/00001_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00001-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4969,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00002_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00002-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00003_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00003-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5835,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00004_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00004-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5766,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00005_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00005-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4198,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00006_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00006-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7075,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00007_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00007-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6651,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00008_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00008-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8767,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00009_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00009-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5787,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00010_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00010-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5442,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00011_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00011-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5200,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00012_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00012-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4590,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00013_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00013-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6112,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt3/00014_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00014-mat-ma-phu-thuy-tap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4041,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mmpt3/00001_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00001-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00001 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00002_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00002-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00002 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00003_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00003-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00003 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00004_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00004-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00004 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00005_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00005-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00005 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00006_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00006-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00006 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00007_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00007-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00007 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00008_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00008-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00008 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00009_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00009-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00009 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00010_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00010-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00010 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00011_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00011-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00011 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00012_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00012-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00012 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00013_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00013-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00013 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt3/00014_Ma%CC%A3%CC%82t%20Ma%CC%83%20Phu%CC%80%20Thu%CC%89y%20Ta%CC%A3%CC%82p%203.m4a",
+    "href" : "https://archive.org/download/cc073c4b5513c6974481c8d9f320a9fb/00014-mat-ma-phu-thuy-tap-3.mp3",
     "title" : "00014 Mật Mã Phù Thủy Tập 3",
     "children" : [ ]
   } ],

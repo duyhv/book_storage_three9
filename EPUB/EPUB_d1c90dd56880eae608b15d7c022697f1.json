@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 219180,
+    "published" : "2024-04-29",
+    "duration" : 186973,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/1.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-1-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 31735,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/2.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-2-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 31585,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/3.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-3-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 32207,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/4.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-4-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 30628,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/5.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-5-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 32091,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/6.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-6-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 28727,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/1.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-1-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 1 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/2.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-2-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 2 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/3.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-3-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 3 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/4.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-4-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 4 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/5.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-5-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 5 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phat-hoc-pho-thong/6.mp3",
+    "href" : "https://archive.org/download/d1c90dd56880eae608b15d7c022697f1/phan-6-trung-tam-dieu-phap-am-dieuphapam-net.mp3",
     "title" : "Phần 6 - Trung Tâm Diệu Pháp Âm - DieuPhapAm.Net",
     "children" : [ ]
   } ],
