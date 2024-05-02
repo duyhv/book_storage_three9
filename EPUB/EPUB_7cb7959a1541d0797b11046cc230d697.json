@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 17766,
+    "published" : "2024-05-02",
+    "duration" : 8883,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguoi-ban-hang-vi-dai-nhat-the-gioi.sna/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
+    "href" : "https://archive.org/download/7cb7959a1541d0797b11046cc230d697/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8883,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguoi-ban-hang-vi-dai-nhat-the-gioi.sna/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
+    "href" : "https://archive.org/download/7cb7959a1541d0797b11046cc230d697/doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang.mp3",
     "title" : "doc-sach-thue-nguoi-ban-hang-vi-dai-nhat-the-gioi-og-mandino-sach-hay-nhat-ve-ban-hang",
     "children" : [ ]
   } ],
