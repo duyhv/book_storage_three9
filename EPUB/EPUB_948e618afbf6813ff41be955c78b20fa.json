@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21546,
+    "published" : "2024-05-04",
+    "duration" : 10773,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-1.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/1-vi-tinh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1808,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-2.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/2-vi-tinh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1945,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-3.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/3-vi-tinh-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1949,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-4.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/4-vi-tinh-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1739,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-5.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/5-vi-tinh-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1798,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-6.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/6-vi-tinh-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1534,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-1.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/1-vi-tinh-1.mp3",
     "title" : "vi-tinh-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-2.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/2-vi-tinh-2.mp3",
     "title" : "vi-tinh-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-3.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/3-vi-tinh-3.mp3",
     "title" : "vi-tinh-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-4.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/4-vi-tinh-4.mp3",
     "title" : "vi-tinh-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-5.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/5-vi-tinh-5.mp3",
     "title" : "vi-tinh-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vi-tinh-3/vi-tinh-6.mp3",
+    "href" : "https://archive.org/download/948e618afbf6813ff41be955c78b20fa/6-vi-tinh-6.mp3",
     "title" : "vi-tinh-6",
     "children" : [ ]
   } ],

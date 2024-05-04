@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 45902,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/1-mat-ma-phu-thuy-tap-2a-phan-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3981,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%2010%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/2-mat-ma-phu-thuy-tap-2a-phan-10-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3420,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%202%20%28128kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/3-mat-ma-phu-thuy-tap-2a-phan-2-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4334,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/4-mat-ma-phu-thuy-tap-2a-phan-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4768,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/5-mat-ma-phu-thuy-tap-2a-phan-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3939,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/6-mat-ma-phu-thuy-tap-2a-phan-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4604,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/7-mat-ma-phu-thuy-tap-2a-phan-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6195,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/8-mat-ma-phu-thuy-tap-2a-phan-7-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4763,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/9-mat-ma-phu-thuy-tap-2a-phan-8-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5561,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%209%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/10-mat-ma-phu-thuy-tap-2a-phan-9-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4337,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/1-mat-ma-phu-thuy-tap-2a-phan-1-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%2010%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/2-mat-ma-phu-thuy-tap-2a-phan-10-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 10 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%202%20%28128kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/3-mat-ma-phu-thuy-tap-2a-phan-2-128kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 2 (128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/4-mat-ma-phu-thuy-tap-2a-phan-3-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/5-mat-ma-phu-thuy-tap-2a-phan-4-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/6-mat-ma-phu-thuy-tap-2a-phan-5-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 5 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/7-mat-ma-phu-thuy-tap-2a-phan-6-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 6 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/8-mat-ma-phu-thuy-tap-2a-phan-7-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 7 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/9-mat-ma-phu-thuy-tap-2a-phan-8-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 8 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mmpt2a/m%E1%BA%ADt%20m%C3%A3%20ph%C3%B9%20th%E1%BB%A7y%20t%E1%BA%ADp%202A%20%20ph%E1%BA%A7n%209%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/a299a41a2f031860867930549b469c76/10-mat-ma-phu-thuy-tap-2a-phan-9-192kbit-aac-.mp3",
     "title" : "mật mã phù thủy tập 2A  phần 9 (192kbit AAC)",
     "children" : [ ]
   } ],

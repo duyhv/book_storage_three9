@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 9538,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-1.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/1-tai-sanh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-2.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/2-tai-sanh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-3.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/3-tai-sanh-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2338,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-1.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/1-tai-sanh-1.mp3",
     "title" : "tai-sanh-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-2.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/2-tai-sanh-2.mp3",
     "title" : "tai-sanh-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tai-sanh-1/tai-sanh-3.mp3",
+    "href" : "https://archive.org/download/9574b30c314c822134e78c0be3cc31b3/3-tai-sanh-3.mp3",
     "title" : "tai-sanh-3",
     "children" : [ ]
   } ],
