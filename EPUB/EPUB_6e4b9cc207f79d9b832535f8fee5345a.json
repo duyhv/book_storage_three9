@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 11946,
+    "published" : "2024-05-06",
+    "duration" : 7453,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/1-lao-vao-lua-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2960,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/2-lao-vao-lua-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2155,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/3-lao-vao-lua-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2338,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_01.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/1-lao-vao-lua-01.mp3",
     "title" : "LAO VAO LUA 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_02.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/2-lao-vao-lua-02.mp3",
     "title" : "LAO VAO LUA 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/lao-vao-lua.sna/LAO_VAO_LUA_03.mp3",
+    "href" : "https://archive.org/download/6e4b9cc207f79d9b832535f8fee5345a/3-lao-vao-lua-03.mp3",
     "title" : "LAO VAO LUA 03",
     "children" : [ ]
   } ],

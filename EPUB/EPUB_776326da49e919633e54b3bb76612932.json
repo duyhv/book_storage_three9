@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 40990,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-1.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/1-ngon-ngu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8334,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-2.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/2-ngon-ngu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 12804,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-3.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/3-ngon-ngu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 19852,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-1.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/1-ngon-ngu-1.mp3",
     "title" : "ngon-ngu-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-2.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/2-ngon-ngu-2.mp3",
     "title" : "ngon-ngu-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ngon-ngu-1/ngon-ngu-3.mp3",
+    "href" : "https://archive.org/download/776326da49e919633e54b3bb76612932/3-ngon-ngu-3.mp3",
     "title" : "ngon-ngu-3",
     "children" : [ ]
   } ],
