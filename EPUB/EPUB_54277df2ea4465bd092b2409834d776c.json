@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 10332,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-1.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/1-thiet-gia-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-2.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/2-thiet-gia-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-3.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/3-thiet-gia-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3132,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-1.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/1-thiet-gia-1.mp3",
     "title" : "thiet-gia-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-2.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/2-thiet-gia-2.mp3",
     "title" : "thiet-gia-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thiet-gia-1/thiet-gia-3.mp3",
+    "href" : "https://archive.org/download/54277df2ea4465bd092b2409834d776c/3-thiet-gia-3.mp3",
     "title" : "thiet-gia-3",
     "children" : [ ]
   } ],
