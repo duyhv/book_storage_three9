@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 5736,
+    "published" : "2024-05-08",
+    "duration" : 2868,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/1_20211125_202111/1.mp3",
+    "href" : "https://archive.org/download/3219d12e097bd3b3147623551d72a15a/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2868,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/1_20211125_202111/1.mp3",
+    "href" : "https://archive.org/download/3219d12e097bd3b3147623551d72a15a/1-1.mp3",
     "title" : "1",
     "children" : [ ]
   } ],
