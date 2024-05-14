@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-13",
     "duration" : 7208,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/di-balo/DI-BALO.mp3",
+    "href" : "https://archive.org/download/03c7bd43b2be8a3c48a37a41b07c5185/1-di-balo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7208,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/di-balo/DI-BALO.mp3",
+    "href" : "https://archive.org/download/03c7bd43b2be8a3c48a37a41b07c5185/1-di-balo.mp3",
     "title" : "DI-BALO",
     "children" : [ ]
   } ],

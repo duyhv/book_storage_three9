@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 41304,
+    "published" : "2024-05-13",
+    "duration" : 20652,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-01.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/1-1-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1891,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-02.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/2-2-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1499,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-03.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/3-3-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1661,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-04.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/4-4-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1452,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-05.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/5-5-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1753,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-06.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/6-6-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 777,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-07.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/7-7-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1524,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-08.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/8-8-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2048,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-09.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/9-9-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2096,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-10.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/10-10-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1340,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-11.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/11-11-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1286,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-12.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/12-12-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1230,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-13.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/13-13-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1256,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-14.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/14-14-14-now-truyen-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 839,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-01.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/1-1-14-now-truyen-hay.mp3",
     "title" : "1/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-02.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/2-2-14-now-truyen-hay.mp3",
     "title" : "2/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-03.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/3-3-14-now-truyen-hay.mp3",
     "title" : "3/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-04.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/4-4-14-now-truyen-hay.mp3",
     "title" : "4/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-05.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/5-5-14-now-truyen-hay.mp3",
     "title" : "5/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-06.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/6-6-14-now-truyen-hay.mp3",
     "title" : "6/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-07.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/7-7-14-now-truyen-hay.mp3",
     "title" : "7/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-08.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/8-8-14-now-truyen-hay.mp3",
     "title" : "8/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-09.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/9-9-14-now-truyen-hay.mp3",
     "title" : "9/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-10.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/10-10-14-now-truyen-hay.mp3",
     "title" : "10/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-11.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/11-11-14-now-truyen-hay.mp3",
     "title" : "11/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-12.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/12-12-14-now-truyen-hay.mp3",
     "title" : "12/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-13.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/13-13-14-now-truyen-hay.mp3",
     "title" : "13/14 | NOW Truyện hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quang-tri-09/quang-tri-14.mp3",
+    "href" : "https://archive.org/download/00decd4580a6db4e424b3035f61d6a97/14-14-14-now-truyen-hay.mp3",
     "title" : "14/14 | NOW Truyện hay",
     "children" : [ ]
   } ],
