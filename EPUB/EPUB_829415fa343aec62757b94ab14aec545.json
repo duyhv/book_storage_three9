@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
+    "published" : "2024-05-16",
     "duration" : 24544,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/EPUB/EPUB_829415fa343aec62757b94ab14aec545.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/EPUB/EPUB_829415fa343aec62757b94ab14aec545.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three9/main/IMAGE/IMAGE_829415fa343aec62757b94ab14aec545.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three9/main/IMAGE/IMAGE_829415fa343aec62757b94ab14aec545.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2017%20Ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91i%E1%BB%81u%20tra..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/1-agatha-christie-an-mang-tren-san-golf-chuong-17-tiep-tuc-dieu-tra.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 781,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2022%20T%C3%B4i%20t%C3%ACm%20th%E1%BA%A5y%20t%C3%ACnh%20y%C3%AAu..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/2-agatha-christie-an-mang-tren-san-golf-chuong-22-toi-tim-thay-tinh-yeu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1028,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2023%20Kh%C3%B3%20kh%C4%83n%20c%C3%B2n%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/3-agatha-christie-an-mang-tren-san-golf-chuong-23-kho-khan-con-o-phia-truoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 562,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2025%20C%C3%A1i%20k%E1%BA%BFt%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/4-agatha-christie-an-mang-tren-san-golf-chuong-25-cai-ket-bat-ngo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 413,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2026%20T%C3%B4i%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/5-agatha-christie-an-mang-tren-san-golf-chuong-26-toi-nhan-duoc-mot-la-thu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 515,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2027%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20Jack%20Renauld..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/6-agatha-christie-an-mang-tren-san-golf-chuong-27-cau-chuyen-cua-jack-renauld.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1255,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2001%20Ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%9Dng.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/7-agatha-christie-an-mang-tren-san-golf-chuong-1-nguoi-ban-duong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 585,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2002%20L%E1%BB%9Di%20c%E1%BA%A7u%20c%E1%BB%A9u.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/8-agatha-christie-an-mang-tren-san-golf-chuong-2-loi-cau-cuu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1143,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2003%20T%E1%BA%A1i%20bi%E1%BB%87t%20th%E1%BB%B1%20Genevi%C3%A8re.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/9-agatha-christie-an-mang-tren-san-golf-chuong-3-tai-biet-thu-geneviere.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1199,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2004%20L%C3%A1%20th%C6%B0%20k%C3%BD%20t%C3%AAn%20Bella.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/10-agatha-christie-an-mang-tren-san-golf-chuong-4-la-thu-ky-ten-bella.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 983,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2005%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20b%C3%A0%20Renauld.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/11-agatha-christie-an-mang-tren-san-golf-chuong-5-cau-chuyen-cua-ba-renauld.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1017,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2006%20Hi%E1%BB%87n%20tr%C6%B0%E1%BB%9Dng%20v%E1%BB%A5%20%C3%A1n..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/12-agatha-christie-an-mang-tren-san-golf-chuong-6-hien-truong-vu-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 736,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2007%20Phu%20nh%C3%A2n%20Daubreuil%20b%C3%AD%20%E1%BA%A9n.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/13-agatha-christie-an-mang-tren-san-golf-chuong-7-phu-nhan-daubreuil-bi-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1179,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2008%20Cu%E1%BB%99c%20g%E1%BA%B7p%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/14-agatha-christie-an-mang-tren-san-golf-chuong-8-cuoc-gap-bat-ngo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 992,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2009%20Giraud%20l%E1%BA%A7n%20ra%20v%C3%A0i%20manh%20m%E1%BB%91i..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/15-agatha-christie-an-mang-tren-san-golf-chuong-9-giraud-lan-ra-vai-manh-moi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 833,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2010%20Gabriel%20Stonor..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/16-agatha-christie-an-mang-tren-san-golf-chuong-10-gabriel-stonor.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 801,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2011%20Jack%20Renauld..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/17-agatha-christie-an-mang-tren-san-golf-chuong-11-jack-renauld.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1200,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2012%20Poirot%20l%C3%BD%20gi%E1%BA%A3i%20m%E1%BB%99t%20s%E1%BB%91%20v%E1%BA%A5n%20%C4%91%E1%BB%81.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/18-agatha-christie-an-mang-tren-san-golf-chuong-12-poirot-ly-giai-mot-so-van-de.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 936,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2013%20C%C3%B4%20g%C3%A1i%20c%C3%B3%20%C4%91%C3%B4i%20m%E1%BA%AFt%20lo%20%C3%A2u..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/19-agatha-christie-an-mang-tren-san-golf-chuong-13-co-gai-co-doi-mat-lo-au.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 848,
@@ -188,7 +188,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2014%20X%C3%A1c%20ch%E1%BA%BFt%20th%E1%BB%A9%20hai..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/20-agatha-christie-an-mang-tren-san-golf-chuong-14-xac-chet-thu-hai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 706,
@@ -196,7 +196,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2015%20T%E1%BA%A5m%20%E1%BA%A3nh..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/21-agatha-christie-an-mang-tren-san-golf-chuong-15-tam-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 825,
@@ -204,7 +204,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2016%20V%E1%BB%A5%20%C3%A1n%20Beroldy..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/22-agatha-christie-an-mang-tren-san-golf-chuong-16-vu-an-beroldy.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 650,
@@ -212,7 +212,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2018%20Giraud%20h%C3%A0nh%20%C4%91%E1%BB%99ng..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/23-agatha-christie-an-mang-tren-san-golf-chuong-18-giraud-hanh-dong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 578,
@@ -220,7 +220,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2019%20T%C3%B4i%20v%E1%BA%ADn%20d%E1%BB%A5ng%20ch%E1%BA%A5t%20x%C3%A1m..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/24-agatha-christie-an-mang-tren-san-golf-chuong-19-toi-van-dung-chat-xam.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 605,
@@ -228,7 +228,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2020%20M%E1%BB%99t%20l%E1%BB%9Di%20khai%20%C4%91%C3%A1ng%20kinh%20ng%E1%BA%A1c..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/25-agatha-christie-an-mang-tren-san-golf-chuong-20-mot-loi-khai-dang-kinh-ngac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1221,
@@ -236,7 +236,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2021%20Hercule%20Poirot%20v%C3%A0o%20cu%E1%BB%99c..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/26-agatha-christie-an-mang-tren-san-golf-chuong-21-hercule-poirot-vao-cuoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 875,
@@ -244,7 +244,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2024%20H%C3%A3y%20c%E1%BB%A9u%20l%E1%BA%A5y%20anh%20%E1%BA%A5y..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/27-agatha-christie-an-mang-tren-san-golf-chuong-24-hay-cuu-lay-anh-ay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 820,
@@ -252,7 +252,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2028%20%C4%90o%E1%BA%A1n%20k%E1%BA%BFt%20c%E1%BB%A7a%20cu%E1%BB%99c%20h%C3%A0nh%20tr%C3%ACnh..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/28-agatha-christie-an-mang-tren-san-golf-chuong-28-doan-ket-cua-cuoc-hanh-trinh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1258,
@@ -261,115 +261,115 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2017%20Ti%E1%BA%BFp%20t%E1%BB%A5c%20%C4%91i%E1%BB%81u%20tra..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/1-agatha-christie-an-mang-tren-san-golf-chuong-17-tiep-tuc-dieu-tra.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 17 Tiếp tục điều tra",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2022%20T%C3%B4i%20t%C3%ACm%20th%E1%BA%A5y%20t%C3%ACnh%20y%C3%AAu..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/2-agatha-christie-an-mang-tren-san-golf-chuong-22-toi-tim-thay-tinh-yeu.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 22 Tôi tìm thấy tình yêu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2023%20Kh%C3%B3%20kh%C4%83n%20c%C3%B2n%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/3-agatha-christie-an-mang-tren-san-golf-chuong-23-kho-khan-con-o-phia-truoc.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 23 Khó khăn còn ở phía trước",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2025%20C%C3%A1i%20k%E1%BA%BFt%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/4-agatha-christie-an-mang-tren-san-golf-chuong-25-cai-ket-bat-ngo.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 25 Cái kết bất ngờ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2026%20T%C3%B4i%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/5-agatha-christie-an-mang-tren-san-golf-chuong-26-toi-nhan-duoc-mot-la-thu.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 26 Tôi nhận được một lá thư",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Chuong%2027%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20Jack%20Renauld..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/6-agatha-christie-an-mang-tren-san-golf-chuong-27-cau-chuyen-cua-jack-renauld.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chuong 27 Câu chuyện của Jack Renauld",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2001%20Ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%9Dng.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/7-agatha-christie-an-mang-tren-san-golf-chuong-1-nguoi-ban-duong.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 1 Người bạn đường",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2002%20L%E1%BB%9Di%20c%E1%BA%A7u%20c%E1%BB%A9u.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/8-agatha-christie-an-mang-tren-san-golf-chuong-2-loi-cau-cuu.mp3",
     "title" : "Agatha Christie | Án mạng trên sân Golf | Chương 2: Lời cầu cứu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2003%20T%E1%BA%A1i%20bi%E1%BB%87t%20th%E1%BB%B1%20Genevi%C3%A8re.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/9-agatha-christie-an-mang-tren-san-golf-chuong-3-tai-biet-thu-geneviere.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 3 Tại biệt thự Genevière",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2004%20L%C3%A1%20th%C6%B0%20k%C3%BD%20t%C3%AAn%20Bella.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/10-agatha-christie-an-mang-tren-san-golf-chuong-4-la-thu-ky-ten-bella.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 4 Lá thư ký tên Bella",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2005%20C%C3%A2u%20chuy%E1%BB%87n%20c%E1%BB%A7a%20b%C3%A0%20Renauld.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/11-agatha-christie-an-mang-tren-san-golf-chuong-5-cau-chuyen-cua-ba-renauld.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 5 Câu chuyện của bà Renauld",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2006%20Hi%E1%BB%87n%20tr%C6%B0%E1%BB%9Dng%20v%E1%BB%A5%20%C3%A1n..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/12-agatha-christie-an-mang-tren-san-golf-chuong-6-hien-truong-vu-an.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 6 Hiện trường vụ án",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2007%20Phu%20nh%C3%A2n%20Daubreuil%20b%C3%AD%20%E1%BA%A9n.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/13-agatha-christie-an-mang-tren-san-golf-chuong-7-phu-nhan-daubreuil-bi-an.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 7 Phu nhân Daubreuil bí ẩn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2008%20Cu%E1%BB%99c%20g%E1%BA%B7p%20b%E1%BA%A5t%20ng%E1%BB%9D..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/14-agatha-christie-an-mang-tren-san-golf-chuong-8-cuoc-gap-bat-ngo.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 8 Cuộc gặp bất ngờ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2009%20Giraud%20l%E1%BA%A7n%20ra%20v%C3%A0i%20manh%20m%E1%BB%91i..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/15-agatha-christie-an-mang-tren-san-golf-chuong-9-giraud-lan-ra-vai-manh-moi.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 9 Giraud lần ra vài manh mối",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2010%20Gabriel%20Stonor..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/16-agatha-christie-an-mang-tren-san-golf-chuong-10-gabriel-stonor.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 10 Gabriel Stonor",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2011%20Jack%20Renauld..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/17-agatha-christie-an-mang-tren-san-golf-chuong-11-jack-renauld.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 11 Jack Renauld",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2012%20Poirot%20l%C3%BD%20gi%E1%BA%A3i%20m%E1%BB%99t%20s%E1%BB%91%20v%E1%BA%A5n%20%C4%91%E1%BB%81.mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/18-agatha-christie-an-mang-tren-san-golf-chuong-12-poirot-ly-giai-mot-so-van-de.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 12 Poirot lý giải một số vấn đề",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2013%20C%C3%B4%20g%C3%A1i%20c%C3%B3%20%C4%91%C3%B4i%20m%E1%BA%AFt%20lo%20%C3%A2u..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/19-agatha-christie-an-mang-tren-san-golf-chuong-13-co-gai-co-doi-mat-lo-au.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 13 Cô gái có đôi mắt lo âu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2014%20X%C3%A1c%20ch%E1%BA%BFt%20th%E1%BB%A9%20hai..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/20-agatha-christie-an-mang-tren-san-golf-chuong-14-xac-chet-thu-hai.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 14 Xác chết thứ hai",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2015%20T%E1%BA%A5m%20%E1%BA%A3nh..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/21-agatha-christie-an-mang-tren-san-golf-chuong-15-tam-anh.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 15 Tấm ảnh",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2016%20V%E1%BB%A5%20%C3%A1n%20Beroldy..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/22-agatha-christie-an-mang-tren-san-golf-chuong-16-vu-an-beroldy.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 16 Vụ án Beroldy",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2018%20Giraud%20h%C3%A0nh%20%C4%91%E1%BB%99ng..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/23-agatha-christie-an-mang-tren-san-golf-chuong-18-giraud-hanh-dong.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 18 Giraud hành động",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2019%20T%C3%B4i%20v%E1%BA%ADn%20d%E1%BB%A5ng%20ch%E1%BA%A5t%20x%C3%A1m..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/24-agatha-christie-an-mang-tren-san-golf-chuong-19-toi-van-dung-chat-xam.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 19 Tôi vận dụng chất xám",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2020%20M%E1%BB%99t%20l%E1%BB%9Di%20khai%20%C4%91%C3%A1ng%20kinh%20ng%E1%BA%A1c..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/25-agatha-christie-an-mang-tren-san-golf-chuong-20-mot-loi-khai-dang-kinh-ngac.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 20 Một lời khai đáng kinh ngạc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2021%20Hercule%20Poirot%20v%C3%A0o%20cu%E1%BB%99c..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/26-agatha-christie-an-mang-tren-san-golf-chuong-21-hercule-poirot-vao-cuoc.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 21 Hercule Poirot vào cuộc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2024%20H%C3%A3y%20c%E1%BB%A9u%20l%E1%BA%A5y%20anh%20%E1%BA%A5y..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/27-agatha-christie-an-mang-tren-san-golf-chuong-24-hay-cuu-lay-anh-ay.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 24 Hãy cứu lấy anh ấy",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/agathachristieanmangtrensangolfchuong28doanketcuacuochanhtrinh./Agatha%20Christie%20%C3%81n%20m%E1%BA%A1ng%20tr%C3%AAn%20s%C3%A2n%20Golf%20Ch%C6%B0%C6%A1ng%2028%20%C4%90o%E1%BA%A1n%20k%E1%BA%BFt%20c%E1%BB%A7a%20cu%E1%BB%99c%20h%C3%A0nh%20tr%C3%ACnh..mp3",
+    "href" : "https://archive.org/download/829415fa343aec62757b94ab14aec545/28-agatha-christie-an-mang-tren-san-golf-chuong-28-doan-ket-cua-cuoc-hanh-trinh.mp3",
     "title" : "Agatha Christie Án mạng trên sân Golf Chương 28 Đoạn kết của cuộc hành trình",
     "children" : [ ]
   } ],
