@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-06-07",
     "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p1.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/1-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p2.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/2-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p3.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/3-p3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p1.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/1-p1.mp3",
     "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p2.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/2-p2.mp3",
     "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-tinh-cua-ke-nghi-nhieu-p3/hanh-tinh-cua-ke-nghi-nhieu-p3.mp3",
+    "href" : "https://archive.org/download/82d58da275988b916f5c0121725c7c24/3-p3.mp3",
     "title" : "P3",
     "children" : [ ]
   } ],
