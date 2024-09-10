@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-29",
+    "published" : "2024-09-09",
     "duration" : 7505,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
+    "href" : "https://archive.org/download/c4dbbe585a7d260993f1a18cfbccbe66/6-bi-mat-cua-may-man.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7505,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bimatcuamayman/B%C3%AD%20M%E1%BA%ADt%20C%E1%BB%A7a%20May%20M%E1%BA%AFn.mp3",
+    "href" : "https://archive.org/download/c4dbbe585a7d260993f1a18cfbccbe66/6-bi-mat-cua-may-man.mp3",
     "title" : "Bí Mật Của May Mắn",
     "children" : [ ]
   } ],

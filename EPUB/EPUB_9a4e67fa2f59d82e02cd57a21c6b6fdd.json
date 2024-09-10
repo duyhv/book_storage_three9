@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
+    "published" : "2024-09-09",
     "duration" : 78767,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Thu%E1%BA%ADt%20%C4%90%E1%BB%8Dc%20Ngu%E1%BB%99i%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/1-thuat-doc-nguoi-audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 22457,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Tr%C3%B2%20Chuy%E1%BB%87n%20V%E1%BB%9Bi%20Th%C6%B0%E1%BB%A3ng%20%C4%90%E1%BA%BF%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/2-tro-chuyen-voi-thuong-de-audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 26970,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Tr%C3%B2%20Chuy%E1%BB%87n%20V%E1%BB%9Bi%20%C3%81c%20Qu%E1%BB%B7%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/3-tro-chuyen-voi-ac-quy-audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 29340,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Thu%E1%BA%ADt%20%C4%90%E1%BB%8Dc%20Ngu%E1%BB%99i%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/1-thuat-doc-nguoi-audiobook.mp3",
     "title" : "Thuật Đọc Nguội - Audiobook",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Tr%C3%B2%20Chuy%E1%BB%87n%20V%E1%BB%9Bi%20Th%C6%B0%E1%BB%A3ng%20%C4%90%E1%BA%BF%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/2-tro-chuyen-voi-thuong-de-audiobook.mp3",
     "title" : "Trò Chuyện Với Thượng Đế - Audiobook",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-chuyen-voi-ac-quy-audiobook/Tr%C3%B2%20Chuy%E1%BB%87n%20V%E1%BB%9Bi%20%C3%81c%20Qu%E1%BB%B7%20-%20Audiobook.mp3",
+    "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/3-tro-chuyen-voi-ac-quy-audiobook.mp3",
     "title" : "Trò Chuyện Với Ác Quỷ - Audiobook",
     "children" : [ ]
   } ],
