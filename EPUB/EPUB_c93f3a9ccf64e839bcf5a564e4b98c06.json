@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-29",
-    "duration" : 76959,
+    "published" : "2024-09-20",
+    "duration" : 76964,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/c93f3a9ccf64e839bcf5a564e4b98c06/khi-dong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12828,
+    "duration" : 12829,
     "title" : "khi-dong-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/c93f3a9ccf64e839bcf5a564e4b98c06/khi-dong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14777,
+    "duration" : 14778,
     "title" : "khi-dong-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/c93f3a9ccf64e839bcf5a564e4b98c06/khi-dong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13440,
+    "duration" : 13441,
     "title" : "khi-dong-3",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/c93f3a9ccf64e839bcf5a564e4b98c06/khi-dong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12797,
+    "duration" : 12798,
     "title" : "khi-dong-4",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/c93f3a9ccf64e839bcf5a564e4b98c06/khi-dong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 14059,
+    "duration" : 14060,
     "title" : "khi-dong-5",
     "properties" : null,
     "alternate" : null

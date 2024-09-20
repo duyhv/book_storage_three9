@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-09",
-    "duration" : 78767,
+    "published" : "2024-09-20",
+    "duration" : 78769,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/2-tro-chuyen-voi-thuong-de-audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 26970,
+    "duration" : 26971,
     "title" : "Trò Chuyện Với Thượng Đế - Audiobook",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/9a4e67fa2f59d82e02cd57a21c6b6fdd/3-tro-chuyen-voi-ac-quy-audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 29340,
+    "duration" : 29341,
     "title" : "Trò Chuyện Với Ác Quỷ - Audiobook",
     "properties" : null,
     "alternate" : null

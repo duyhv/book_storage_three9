@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 16050,
+    "published" : "2024-09-20",
+    "duration" : 16053,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/6b8f149a30574a27e901f7df1a82f792/1-rich-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4200,
+    "duration" : 4201,
     "title" : "rich-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/6b8f149a30574a27e901f7df1a82f792/2-rich-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4200,
+    "duration" : 4201,
     "title" : "rich-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/6b8f149a30574a27e901f7df1a82f792/3-rich-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4200,
+    "duration" : 4201,
     "title" : "rich-3",
     "properties" : null,
     "alternate" : null
