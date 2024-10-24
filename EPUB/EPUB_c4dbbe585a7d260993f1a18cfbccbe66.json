@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 7506,
+    "published" : "2024-10-24",
+    "duration" : 7505,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,16 +36,16 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/c4dbbe585a7d260993f1a18cfbccbe66/6-bi-mat-cua-may-man.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/c4dbbe585a7d260993f1a18cfbccbe66/cloudflare_6-bi-mat-cua-may-man.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7506,
+    "duration" : 7505,
     "title" : "Bí Mật Của May Mắn",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/c4dbbe585a7d260993f1a18cfbccbe66/6-bi-mat-cua-may-man.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/c4dbbe585a7d260993f1a18cfbccbe66/cloudflare_6-bi-mat-cua-may-man.mp3",
     "title" : "Bí Mật Của May Mắn",
     "children" : [ ]
   } ],
