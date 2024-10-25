@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-21",
-    "duration" : 3813,
+    "published" : "2024-10-25",
+    "duration" : 3812,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,16 +36,16 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/eacf729bc648ed1fba93ffaa51f633be/sach-noi-muon-kiep-nhan-sinh-tap-3-nguyen-phong-voiz-fm-320kbps.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/eacf729bc648ed1fba93ffaa51f633be/cloudflare_1-sach-noi-muon-kiep-nhan-sinh-tap-3-nguyen-phong-voiz-fm-320kbps.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3813,
+    "duration" : 3812,
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/eacf729bc648ed1fba93ffaa51f633be/sach-noi-muon-kiep-nhan-sinh-tap-3-nguyen-phong-voiz-fm-320kbps.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/eacf729bc648ed1fba93ffaa51f633be/cloudflare_1-sach-noi-muon-kiep-nhan-sinh-tap-3-nguyen-phong-voiz-fm-320kbps.mp3",
     "title" : "Sách nói Muôn Kiếp Nhân Sinh  Tập 3  Nguyên Phong  Voiz FM 320kbps",
     "children" : [ ]
   } ],
